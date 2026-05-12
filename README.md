@@ -1,25 +1,132 @@
 <h1 align="center">Hi 👋, I'm Nandu Vaibhav</h1>
-<h3 align="center">I build apps and wouild like to ship.</h3>
 
-- 🔭 I’m currently working on [BalllersAdda](🤫)
+<h3 align="center">
+🚀 Full Stack Developer • System Design Enthusiast • Builder
+</h3>
 
-- 🌱 I’m currently learning **System Design, Typescript and Docker**
-
-- 💬 Ask me about **Javascript, REST API's, React, System Design**
-
-- 📫 How to reach me **nanduvaibhav03@gmail.com**
-
-- ⚡ Fun fact **I sing pretty well**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nanduvaibhav48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanduvaibhav48" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/t-nandu-vaibhav-b244b424b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-nandu-vaibhav-b244b424b/" height="30" width="40" /></a>
+<p align="center">
+I love building scalable apps, experimenting with new technologies, and shipping products that solve real problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnoob48&show_icons=true&locale=en" alt="iamnoob48" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnoob48&" alt="iamnoob48" /></p>
+- 🔭 Currently building **BallersAdda**
+- 🌱 Learning **System Design, TypeScript, Docker & Distributed Systems**
+- 💬 Ask me about **JavaScript, React, REST APIs, Backend Architecture**
+- ⚡ Fun fact: **I sing pretty well 🎤**
+- 📫 Reach me at: **nanduvaibhav03@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/nanduvaibhav48" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/t-nandu-vaibhav-b244b424b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+</p>
+
+## 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+</p>
+
+## ⚙️ Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis,kafka" />
+</p>
+
+## ☁️ DevOps & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman" />
+</p>
+
+## 🤖 AI / ML / CV
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+## 🔌 IoT & Hardware
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏀 BallersAdda
+A platform focused on basketball culture, community, and experiences.
+
+**Tech:** React • Node.js • PostgreSQL • Docker
+
+---
+
+## 🤖 Military Humanoid Robot
+Built a humanoid robot capable of:
+- Autonomous communication
+- Ground station connectivity
+- UGV collaboration
+
+**Tech:** Raspberry Pi • ESP32 • ROS2 • Python • Gazebo
+
+---
+
+## 🦾 EMG Prosthetic Arm
+Smart India Hackathon project involving:
+- EMG sensor-based gesture control
+- 3D printed prosthetic design
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnoob48&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnoob48&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnoob48&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- Ship more real-world products 🚀
+- Master distributed systems ⚡
+- Contribute to open source 🌍
+- Learn advanced backend engineering 🧠
+
+---
+
+<p align="center">
+✨ “Build. Break. Learn. Repeat.” ✨
+</p>
