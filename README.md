@@ -24,7 +24,7 @@ I love building scalable apps, experimenting with new technologies, and shipping
 
 <p align="left">
 <a href="https://twitter.com/nanduvaibhav48" target="_blank">
-<img src="https://cdn.simpleicons.org/x" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/t-nandu-vaibhav-b244b424b/" target="_blank">
