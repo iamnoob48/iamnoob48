@@ -74,31 +74,6 @@ I love building scalable apps, experimenting with new technologies, and shipping
 
 ---
 
-# 📌 Featured Projects
-
-## 🏀 BallersAdda
-A platform focused on basketball culture, community, and experiences.
-
-**Tech:** React • Node.js • PostgreSQL • Docker
-
----
-
-## 🤖 Military Humanoid Robot
-Built a humanoid robot capable of:
-- Autonomous communication
-- Ground station connectivity
-- UGV collaboration
-
-**Tech:** Raspberry Pi • ESP32 • ROS2 • Python • Gazebo
-
----
-
-## 🦾 EMG Prosthetic Arm
-Smart India Hackathon project involving:
-- EMG sensor-based gesture control
-- 3D printed prosthetic design
-
----
 
 # 📊 GitHub Stats
 
