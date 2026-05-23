@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-I love building scalable apps, experimenting with new technologies, and shipping products that solve real problems.
+I love building scalable applications, experimenting with new technologies, and shipping products that solve real problems.
 </p>
 
 ---
